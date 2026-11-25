@@ -1,12 +1,20 @@
 # Assistente de Planejamento com IA
 
-## Problema que o assistente resolve
+## Sobre o Projeto
 
-Muitas pessoas possuem objetivos de estudo, carreira ou negócios, mas encontram dificuldades para organizar as etapas necessárias para alcançá-los. Este assistente foi criado para transformar objetivos em planos de ação estruturados, com acompanhamento e revisão contínua.
+Este projeto apresenta um Assistente de Planejamento com IA desenvolvido para ajudar usuários a transformar objetivos em planos de ação organizados e executáveis.
+
+O assistente foi criado para apoiar metas de estudo, carreira ou negócios, auxiliando na definição de etapas, adaptação à rotina, identificação de obstáculos e acompanhamento contínuo do progresso.
+
+## Problema que o Assistente Resolve
+
+Muitas pessoas possuem objetivos definidos, mas não sabem como transformá-los em ações práticas. Frequentemente faltam organização, acompanhamento e estratégias para lidar com obstáculos.
+
+Este assistente resolve esse problema estruturando o planejamento de forma clara e reutilizável.
 
 ## Diferencial
 
-O assistente não apenas cria um plano, mas também ajuda a adaptar as atividades à rotina do usuário, prever obstáculos e acompanhar a evolução do objetivo.
+O diferencial do projeto é combinar um Planner no Notion com habilidades de IA reutilizáveis, permitindo que qualquer objetivo seja transformado em um plano de ação acompanhado por revisões periódicas.
 
 ## Ferramentas Utilizadas
 
@@ -14,76 +22,74 @@ O assistente não apenas cria um plano, mas também ajuda a adaptar as atividade
 Utilizado para criar o Planner e organizar as informações do planejamento.
 
 ### ChatGPT
-Utilizado para criação das habilidades do assistente e geração dos planos de ação.
+Utilizado para criar e testar as habilidades responsáveis por orientar cada etapa do planejamento.
 
 ## Estrutura do Planner
 
-O Planner foi organizado em quatro áreas principais:
+O Planner foi organizado nas seguintes seções:
 
 ### Objetivo
-Definição clara da meta a ser alcançada.
+Definição da meta principal.
 
 ### Plano de Ação
-Lista das etapas necessárias para cumprir o objetivo.
+Lista de tarefas e etapas necessárias para alcançar o objetivo.
 
 ### Rotina
-Organização das atividades dentro da disponibilidade do usuário.
+Organização das atividades de acordo com a disponibilidade de tempo.
 
 ### Obstáculos
-Mapeamento de dificuldades e possíveis soluções.
+Identificação de possíveis dificuldades e definição de alternativas.
 
 ### Acompanhamento
-Monitoramento periódico do progresso.
+Monitoramento e revisão periódica do progresso.
 
 ## Habilidades do Assistente
 
 ### 1. Esclarecer e Registrar Objetivos
 
-Descrição:
-Ajuda o usuário a definir objetivos claros, específicos e mensuráveis.
+**Descrição:** ajuda o usuário a definir objetivos claros e específicos.
 
-Função:
-Transformar ideias genéricas em metas estruturadas.
+**Função:** transformar objetivos genéricos em metas estruturadas.
+
+---
 
 ### 2. Transformar Objetivos em Plano de Ação
 
-Descrição:
-Divide o objetivo em pequenas etapas executáveis.
+**Descrição:** divide o objetivo em etapas menores e executáveis.
 
-Função:
-Criar um cronograma com prioridades e prazos.
+**Função:** criar um plano organizado com prioridades e prazos.
+
+---
 
 ### 3. Adaptar o Plano à Rotina
 
-Descrição:
-Analisa a disponibilidade do usuário.
+**Descrição:** considera a disponibilidade de tempo do usuário.
 
-Função:
-Distribuir atividades dentro do tempo disponível.
+**Função:** distribuir as tarefas de forma equilibrada.
 
-### 4. Antecipar Obstáculos
+---
 
-Descrição:
-Identifica possíveis dificuldades.
+### 4. Antecipar Obstáculos e Definir Alternativas
 
-Função:
-Sugerir estratégias preventivas.
+**Descrição:** identifica possíveis barreiras durante a execução.
+
+**Função:** sugerir estratégias para evitar atrasos e bloqueios.
+
+---
 
 ### 5. Revisar o Progresso
 
-Descrição:
-Avalia os resultados obtidos.
+**Descrição:** acompanha a evolução do plano.
 
-Função:
-Propor ajustes no planejamento.
+**Função:** avaliar resultados e propor ajustes quando necessário.
 
 ## Demonstração Prática
 
-Objetivo escolhido:
+### Objetivo Escolhido
 
-"Tornar-se Desenvolvedor Full Stack em 6 meses."
+Tornar-se Desenvolvedor Full Stack em 6 meses.
 
-Plano sugerido:
+### Plano Gerado pelo Assistente
 
 - Mês 1: HTML e CSS
 - Mês 2: JavaScript
@@ -92,10 +98,12 @@ Plano sugerido:
 - Mês 5: Banco de Dados
 - Mês 6: Projeto Final e Portfólio
 
-## Evidências
+### Resultado Esperado
 
-Planner criado no Notion:
+Concluir uma trilha de estudos Full Stack e desenvolver um portfólio para participação em processos seletivos.
 
-(Link público do seu Notion)
+## Evidência do Projeto
 
-https://app.notion.com/p/Planner-Inteligente-com-IA-42364eac1e738051b1eecd62b1cc457d?source=copy_link
+Planner desenvolvido no Notion:
+
+[Link do Planner](https://app.notion.com/p/Planner-Inteligente-com-IA-42364eac1e738051b1eecd62b1cc457d?source=copy_link)
